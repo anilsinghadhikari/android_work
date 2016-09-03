@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ExpandCollapse</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_word">Hello World! Hello World!
+    Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+          Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+        Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World! Hello World!
+    </string>
+    <string name="title_activity_image_scaling_with_scroll_view">
+        ImageScalingWithScrollViewActivity
+    </string>
+    <string name="scrollable_text">@string/hello_word</string>
+    <string name="title_activity_image_translation_with_scroll_view">
+        ImageTranslationWithScrollViewActivity
+    </string>
+</resources>
